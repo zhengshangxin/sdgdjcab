@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">安全播出事故界定</string>
+    <string name="title_item_detail">安全播出事故界定</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

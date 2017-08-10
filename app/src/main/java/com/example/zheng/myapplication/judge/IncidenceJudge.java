@@ -5,4 +5,6 @@ package com.example.zheng.myapplication.judge;
  */
 
 public class IncidenceJudge extends IncidenceBase{
+
+
 }

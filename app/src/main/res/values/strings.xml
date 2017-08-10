@@ -6,6 +6,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="title_activity_welcome">WelcomeActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">开始体验</string>
+    <string name="dummy_content">山东省广播电视监测中心</string>
 </resources>
